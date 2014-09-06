@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>fonts\Score.spritefont</Source>
+      <Name>fonts\Score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\bin\x86\Debug\Content\fonts\Score.xnb</Output>
+      <Time>2014-07-09T21:12:01.0653379-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\PlayerSquare.png</Source>
+      <Name>images\PlayerSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\bin\x86\Debug\Content\images\PlayerSquare.xnb</Output>
+      <Time>2014-07-26T15:33:29.5213669-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\background2.jpg</Source>
+      <Name>images\background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\bin\x86\Debug\Content\images\background2.xnb</Output>
+      <Time>2014-07-09T21:33:26.4448317-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Food.png</Source>
+      <Name>images\Food</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\bin\x86\Debug\Content\images\Food.xnb</Output>
+      <Time>2014-07-26T15:34:23.0047045-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-06-29T10:20:58.5830363-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

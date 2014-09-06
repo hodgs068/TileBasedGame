@@ -1,0 +1,1 @@
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGameContent\obj\x86\Debug\TileBasedGameContent.contentprojResolveAssemblyReference.cache

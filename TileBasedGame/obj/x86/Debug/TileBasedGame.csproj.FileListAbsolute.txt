@@ -1,0 +1,14 @@
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\obj\x86\Debug\TileBasedGame.csprojResolveAssemblyReference.cache
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\bin\x86\Debug\Content\fonts\Score.xnb
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\bin\x86\Debug\Content\images\PlayerSquare.xnb
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\bin\x86\Debug\Content\images\background2.xnb
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\bin\x86\Debug\Content\images\Food.xnb
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\bin\x86\Debug\TileBasedGame.exe.manifest
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\bin\x86\Debug\TileBasedGame.application
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\bin\x86\Debug\TileBasedGame.exe
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\bin\x86\Debug\TileBasedGame.pdb
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\obj\x86\Debug\TileBasedGame.exe.manifest
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\obj\x86\Debug\TileBasedGame.application
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\obj\x86\Debug\TileBasedGame.exe
+C:\Users\willh_000\Documents\Visual Studio 2010\Projects\TileBasedGame\TileBasedGame\TileBasedGame\obj\x86\Debug\TileBasedGame.pdb
